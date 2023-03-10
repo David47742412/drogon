@@ -1,0 +1,6 @@
+/home/askcorp/Escritorio/learningDrogon/build/CMakeFiles/learningDrogon.dir
+/home/askcorp/Escritorio/learningDrogon/build/CMakeFiles/edit_cache.dir
+/home/askcorp/Escritorio/learningDrogon/build/CMakeFiles/rebuild_cache.dir
+/home/askcorp/Escritorio/learningDrogon/build/test/CMakeFiles/learningDrogon_test.dir
+/home/askcorp/Escritorio/learningDrogon/build/test/CMakeFiles/edit_cache.dir
+/home/askcorp/Escritorio/learningDrogon/build/test/CMakeFiles/rebuild_cache.dir

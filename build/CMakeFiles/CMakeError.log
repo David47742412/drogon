@@ -1,0 +1,17 @@
+Determining if the include file coroutine exists failed with the following output:
+Change Dir: /home/askcorp/Escritorio/learningDrogon/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_02c9c/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_02c9c.dir/build.make CMakeFiles/cmTC_02c9c.dir/build
+gmake[1]: se entra en el directorio '/home/askcorp/Escritorio/learningDrogon/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_02c9c.dir/CheckIncludeFile.cxx.o
+/usr/bin/c++    -o CMakeFiles/cmTC_02c9c.dir/CheckIncludeFile.cxx.o -c /home/askcorp/Escritorio/learningDrogon/build/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
+In file included from /home/askcorp/Escritorio/learningDrogon/build/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx:1:
+/usr/include/c++/12/coroutine:361:2: error: #error "the coroutine header requires -fcoroutines"
+  361 | #error "the coroutine header requires -fcoroutines"
+      |  ^~~~~
+gmake[1]: *** [CMakeFiles/cmTC_02c9c.dir/build.make:78: CMakeFiles/cmTC_02c9c.dir/CheckIncludeFile.cxx.o] Error 1
+gmake[1]: se sale del directorio '/home/askcorp/Escritorio/learningDrogon/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_02c9c/fast] Error 2
+
+
+
